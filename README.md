@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pratik Bhagwat</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **NextJs**
+- I’m currently Working at **Sunbase** remote job
+
+- 🌱 I’m currently working on **NextJs** & **React Native**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-umber-seven.vercel.app/](https://portfolio-umber-seven.vercel.app/)
 
